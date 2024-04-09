@@ -18,6 +18,8 @@ const config: Config = {
     },
     fontFamily: {
       sans: ["Inter", ...defaultTheme.fontFamily.sans],
+      haskoy: 'Haskoy',
+      // myFont: ['var(--font-haskoy)']
       // stock: [defaultTheme.fontFamily.sans],
     },
   },
