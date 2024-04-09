@@ -8,3 +8,13 @@
     @apply dark:bg-trueGray-900;
   }
 }
+
+@layer moxie {
+    @font-face {
+      font-family: 'haskoy';
+      src: url('/fonts/haskoy/woff2/static/Haskoy-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-display: swap;
+      font-style: normal;
+    }
+}
